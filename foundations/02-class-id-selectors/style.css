@@ -1,0 +1,18 @@
+#bold {
+    font-weight: bold;
+    background-color: rgba(109, 245, 64, 0.888);
+}
+
+#blue {
+    color: rgb(40, 66, 159);
+    font-size: 36px;
+}
+
+.sfonthigh { 
+    font-family: Verdana, "DejaVu Sans", "sans-serif";
+    background-color: rgba(242, 151, 172, 0.901);
+}
+
+.nsize {
+    font-size: 24px;
+}
